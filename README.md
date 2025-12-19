@@ -59,10 +59,11 @@ Mot secret choisi !
  ...
 Mot trouvé :CRANE
 
-🖼️ Screenshots
-Ajoutez ici une capture d’écran du terminal montrant le programme en cours d’exécution :
-"C:\Users\skender\Pictures\Screenshots\wordle_terminal .png"
-"C:\Users\skender\Pictures\Screenshots\solver_terminal .png"
+## 🖼️ Screenshots
+Voici des captures d’écran du programme en cours d’exécution :
+
+![Exécution du solver](solver_terminal.png)
+![Exécution du jeu Wordle](wordle_terminal.png)
 
 
 🛠️ Stratégie du solver
