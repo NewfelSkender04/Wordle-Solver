@@ -23,7 +23,7 @@ Projet réalisé dans le cadre du cours Algorithmes & Structures de Données en 
 ## ⚙️ Installation et compilation
 - Prérequis : un compilateur C (gcc) et un terminal compatible ANSI.
 - Compilation :
-```bash
+
 gcc WordleSolver.c -o wordle
 gcc game.c -o solver
 ▶️ Exécution
@@ -62,8 +62,8 @@ Mot trouvé :CRANE
 ## 🖼️ Screenshots
 Voici des captures d’écran du programme en cours d’exécution :
 
-![Exécution du jeu Wordle](wordle_terminal.png)
-![Deuxième essai Wordle](solver_terminal.png)
+![Exécution du jeu Wordle](./imeges/wordle.png)
+![Deuxième essai Wordle](./imeges/solver.png)
 
 
 🛠️ Stratégie du solver
