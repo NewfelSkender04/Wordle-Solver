@@ -57,7 +57,13 @@ Mot secret choisi !
  soare   -> feedback coloré
  crane   -> feedback coloré
  ...
-Mot trouvé :CRANE 
+Mot trouvé :CRANE
+
+🖼️ Screenshots
+Ajoutez ici une capture d’écran du terminal montrant le programme en cours d’exécution :
+"C:\Users\skender\Pictures\Screenshots\wordle_terminal .png"
+"C:\Users\skender\Pictures\Screenshots\solver_terminal .png"
+
 
 🛠️ Stratégie du solver
 Premier mot choisi : "soare", statistiquement optimal pour réduire l’espace de recherche.
