@@ -62,8 +62,8 @@ Mot trouvé :CRANE
 ## 🖼️ Screenshots
 Voici des captures d’écran du programme en cours d’exécution :
 
-![Exécution du solver](solver_terminal.png)
 ![Exécution du jeu Wordle](wordle_terminal.png)
+![Deuxième essai Wordle](wordle_terminal1.png)
 
 
 🛠️ Stratégie du solver
